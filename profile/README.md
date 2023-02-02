@@ -20,3 +20,11 @@
 ## 신청 방법
 
 - [E-Mail](mailto:wjjgjk@gmail.com)
+
+## Contribute
+
+모든 종류의 Contribute를 환영합니다!\
+ex.
+
+- __Issues__ : Algorithm 노트 정리나 대회 공지 등
+- __Discussions__ : Q&A
