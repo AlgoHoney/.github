@@ -14,8 +14,11 @@
 
 ## 규칙
 
-1. 본 소개서를 제외한 조직 내 모든 문서는 영어로 관리한다.
-2. 1차적으로 모집 대상의 언어는 Python으로 한정한다.
+본 조직의 규칙은 [규칙](https://github.com/AlgoHoney/.github/blob/main/규칙.md)에 명시되어 있습니다.
+
+## 진행 방법
+
+스터디 진행 방법은 [진행 방법](https://github.com/AlgoHoney/.github/blob/main/진행%20방법.md)에 명시되어 있습니다.
 
 ## 신청 방법
 
