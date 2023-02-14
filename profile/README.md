@@ -22,7 +22,10 @@
 
 ## 신청 방법
 
+아래의 방법 중 하나를 선택해주세요 !
+
 - [E-Mail](mailto:wjjgjk@gmail.com)
+- [Issue](https://github.com/AlgoHoney/.github/issues/new?assignees=dev-onejun&labels=application&template=application.md&title=%5BApplication%5D+XXX)
 
 ## Contribute
 
