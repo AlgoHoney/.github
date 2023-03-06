@@ -1,6 +1,6 @@
 # AlgoHoney
 
-If you want to see the profile as Korean, please visit [the korean repo](ko/README.md)
+If you want to see the profile as Korean, please visit [the korean repo](https://github.com/AlgoHoney/.github/tree/main/profile/ko)
 
 * Stage: Organization Building
 
@@ -15,11 +15,11 @@ Enroll algorithm competitions as a team, once in a quarter year.
 
 ### RULE
 
-The rule of this organization is written at [RULE.md](RULE.md)
+The rule of this organization is written at [RULE.md](https://github.com/AlgoHoney/.github/blob/main/profile/RULE.md)
 
 ### Methods to participate the team
 
-They are written at [PARTICIPATE.md](PARTICIPATE.md)
+They are written at [PARTICIPATE.md](https://github.com/AlgoHoney/.github/blob/main/profile/PARTICIPATE.md)
 
 ## How to apply
 
